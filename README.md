@@ -13,7 +13,9 @@ Hands-on observability project deployed on Ubuntu VPS using Docker, Prometheus a
 
 ---
 
-## Live Environment
+## Public HTTPS Endpoint
+
+Grafana deployed behind Nginx reverse proxy (authentication required).
 
 🔗 https://grafana-lab.cervelliesplosi.com
 
